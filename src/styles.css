@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cinzel&family=Dancing+Script&family=Fasthand&family=Island+Moments&family=Playfair+Display:ital,wght@0,500;1,400&family=Roboto+Condensed:ital,wght@1,700&family=Roboto+Slab:wght@300&display=swap');
+title{
+    font-family: 'Roboto Slab', serif;
+} 
+.contact_image{
+    width: 150px;
+}
